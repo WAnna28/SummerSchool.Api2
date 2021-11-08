@@ -1,0 +1,24 @@
+[21-11-05 12:34:05 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-11-05 12:34:12 Warning]AutoLot.Mvc - Dev:SummerSchool.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at C:\Users\anna.hakobyan\Desktop\School\2021\Summer School\Day19 - November 05 2021\SummerSchool\SummerSchool.Mvc\Controllers\HomeController.cs:29
+
+[21-11-05 12:34:36 Warning]AutoLot.Mvc - Dev:SummerSchool.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at C:\Users\anna.hakobyan\Desktop\School\2021\Summer School\Day19 - November 05 2021\SummerSchool\SummerSchool.Mvc\Controllers\HomeController.cs:29
+
+[21-11-05 12:34:37 Warning]AutoLot.Mvc - Dev:SummerSchool.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at C:\Users\anna.hakobyan\Desktop\School\2021\Summer School\Day19 - November 05 2021\SummerSchool\SummerSchool.Mvc\Controllers\HomeController.cs:29
+
+[21-11-05 12:34:39 Warning]AutoLot.Mvc - Dev:SummerSchool.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at C:\Users\anna.hakobyan\Desktop\School\2021\Summer School\Day19 - November 05 2021\SummerSchool\SummerSchool.Mvc\Controllers\HomeController.cs:29
+
+[21-11-05 12:34:50 Warning]AutoLot.Mvc - Dev:SummerSchool.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at C:\Users\anna.hakobyan\Desktop\School\2021\Summer School\Day19 - November 05 2021\SummerSchool\SummerSchool.Mvc\Controllers\HomeController.cs:29
+
